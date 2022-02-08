@@ -1,4 +1,3 @@
-pipenv shell
 :loop
-python autoclick.py
+pipenv run python autoclick.py
 goto loop
